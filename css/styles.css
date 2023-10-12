@@ -1,0 +1,78 @@
+*{
+
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.navbar-brand{
+
+
+    font-size: 30px;
+
+
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+
+    position: relative;
+
+    left: 5em;
+
+}
+
+
+.inputtxt{
+
+    position: relative;
+
+    left: 10em;
+
+    font-size: 20px;
+
+
+}
+
+.btn{
+
+    position: relative;
+
+    top: 3em;
+
+    height: 40px;
+
+    background-color: #74819A;
+
+
+}
+
+
+.card-title{
+
+    text-align: center;
+
+    font-size: 18px;
+
+
+}
+
+
+.card-link{
+
+    position: relative;
+
+    left: 3em;
+
+    top: 30px;
+
+
+}
+
+.card{
+
+    border: 5px solid #74819A ;
+
+    right: 100px;
+
+}
